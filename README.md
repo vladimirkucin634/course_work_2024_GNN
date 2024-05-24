@@ -1,1 +1,0 @@
-# course_work_2024_GNN
